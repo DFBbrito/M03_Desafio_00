@@ -22,7 +22,7 @@ def Pares(n1,n2,n3):
     if n3%2==0:
         print('par')
 
-Pares(6,20,8)
+Pares(6,20,9)
 
 
 """
